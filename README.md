@@ -52,6 +52,7 @@ __Note:__ sdcard0 is NOT an actual sd card. It is actually internal memory. Read
 __Error Found:__ When saving to the directory the bitmap is only receiving the background image and not receiving the paint strokes.
 
 Image of my gallary with save attempts:
+
 ![Imgur](https://i.imgur.com/oJCxcj1.png)
 
 Design
